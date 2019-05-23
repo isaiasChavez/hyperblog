@@ -2,4 +2,6 @@ Este es un nuevo archivo para el curso de git.
 
 Esta es la linea del segundo commit. 
 
-Esta es una linea extra para el segundo commit. 
+Esta es una linea extra para el segundo commit.
+
+Esta es una linea para el commit después del reset hard 
