@@ -1,3 +1,4 @@
 Este es un nuevo archivo para el curso de git.
 Esta linea es avanzada en el tiempo y borre mucho código anterior.
+Esta es una linea que no debería estár aquí.
 Hola mundo.
